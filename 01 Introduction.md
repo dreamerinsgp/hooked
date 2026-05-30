@@ -54,7 +54,7 @@ While I draw many examples from technology companies given my industry backgroun
 
 The Hook Model
 
-![](../Images/00031.jpg)
+![](images/00031.jpg)
 
 1. Trigger
 
