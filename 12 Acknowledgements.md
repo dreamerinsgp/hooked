@@ -14,4 +14,3 @@ There are two more people who deserve extra recognition: First, Ryan Hoover, the
 
 Next, this book is dedicated to my wife Julie Li-Eyal. Julie assisted with everything, from practical tasks (such as designing the book cover and presentation slides) to serving as a sounding board during the ups and downs of the writing process. However, of all her contributions, the greatest is her unwavering support. Her endless affection leaves me forever in her debt and always wondering how I got so lucky.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

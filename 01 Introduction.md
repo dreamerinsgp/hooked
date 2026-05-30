@@ -50,7 +50,6 @@ These years of distilled research and real-world experience resulted in the crea
 
 While I draw many examples from technology companies given my industry background, hooks are everywhere — in apps, sports, movies, games, and even our jobs. Hooks can be found in virtually any experience that burrows into our minds (and often our wallets). The four steps of the Hook Model provide the framework for the chapters of this book.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 The Hook Model
 
@@ -136,4 +135,3 @@ Remember and Share
 
 - The Hook Model has four phases: trigger, action, variable reward, and investment.[[xvi]](../Text/index_split_024.html#filepos353289)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

@@ -2,7 +2,6 @@
 
 APPENDIX
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 NOW WHAT?
 
@@ -16,4 +15,3 @@ Also, be sure to visit my blog ([NirAndFar.com](http://www.nirandfar.com/)) to l
 
 Finally, please send questions, comments, edits, or feedback to: [nir@nirandfar.com](mailto:nir@nirandfar.com).
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

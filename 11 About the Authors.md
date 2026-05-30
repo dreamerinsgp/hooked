@@ -6,4 +6,3 @@ Nir Eyal writes, consults, and teaches about the intersection of psychology, tec
 
 Ryan Hoover is a writer and observer of product trends, growth, and behavior design with essays featured in Forbes, Fast Company, The Next Web, and PandoDaily. Ryan was the Director of Product at PlayHaven, a business engine for mobile game developers. He is the co-creator of Product Hunt, a daily leaderboard for new products, and is an Instructor at Tradecraft, a 12-week program training startup talent.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

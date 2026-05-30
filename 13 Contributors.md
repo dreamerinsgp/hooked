@@ -938,4 +938,3 @@ Keivan Zolfaghari
 
 Zoran Zuber
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

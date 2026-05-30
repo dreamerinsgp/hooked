@@ -4,7 +4,6 @@ NOTES AND SOURCES
 
 ---
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 Introduction
 
@@ -304,7 +303,6 @@ Chapter 8: Habit Testing and Where to Look for Habit-Forming Opportunities
 
 [[cxxxix]](../Text/index_split_017.html#filepos309766) “How to Get Startup Ideas,” November 2012. <http://paulgraham.com/startupideas.html>.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 Table of Contents
 
@@ -888,7 +886,6 @@ Table of Contents
 
 [[cxxxix]](../Text/index_split_017.html#filepos309766)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
 
 Table of Contents
 
@@ -1472,4 +1469,3 @@ Table of Contents
 
 [[cxxxix]](../Text/index_split_017.html#filepos309766)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)
